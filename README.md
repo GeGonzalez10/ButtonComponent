@@ -27,7 +27,7 @@
 ## Table of Contents
 
 - [Overview](#overview)
-  - [Built With](#built-with)
+- [Built With](#built-with)
 - [Features](#features)
 - [How to use](#how-to-use)
 - [Contact](#contact)
@@ -44,6 +44,9 @@ Creating a Button component is always a great exercise no matter how much experi
 
 - [React](https://reactjs.org/)
 - [Styled-Components](https://styled-components.com/)
+- [Netlify](https://www.netlify.com/)
+
+
 ## Features
 
 <!-- List the features of your application or follow the template. Don't share the figma file here :) -->
@@ -73,8 +76,6 @@ $ npm start
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
-
 ## Contact
 
 - GitHub [@GeGonzalez10](https://{https://github.com/GeGonzalez10})
