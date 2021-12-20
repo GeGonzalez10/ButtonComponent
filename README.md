@@ -12,7 +12,6 @@
       Demo
     </a>
     <span> | </span>
-    <span> | </span>
     <a href="https://devchallenges.io/challenges/ohgVTyJCbm5OZyTB2gNY">
       Challenge
     </a>
